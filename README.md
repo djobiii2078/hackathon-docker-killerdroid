@@ -23,8 +23,8 @@ KillerDroid is wrapped in a **Docker container** and a specific command line is 
 
 - Docker version 20.10.16, build aa7e414
 
-1. Clone the repository (**2.8MB**) https://gitlab.inria.fr/andromak/hackathon/hackathon-docker
-`git clone https://gitlab.inria.fr/andromak/hackathon/hackathon-docker`
+1. Clone the repository (**2.8MB**) [https://gitlab.inria.fr/andromak/hackathon/hackathon-docker](https://github.com/djobiii2078/hackathon-docker-killerdroid.git)
+`git clone https://github.com/djobiii2078/hackathon-docker-killerdroid.git`
 2. Connect to your docker account : `docker login registry.gitlab.inria.fr` 
 3. Build the latest image from your Dockerfile: 
 `docker build -t hackathon:latest.` (**5.79GB**)
