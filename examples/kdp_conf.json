@@ -1,0 +1,23 @@
+{
+  "outputDirectory": "output",
+  "requiredFiles": "./required_files",
+  "installApk": false,
+  "fetchRemoteApkUrlPath": "",
+  "sendRemoteApkUrlPath": "",
+  "pathToKeystore": "",
+  "keyPassword": "",
+  "databaseConfiguration": {
+    "connectToDatabase": false,
+    "dbName": "killerdroid_final",
+    "url": "widecore24.irisa.fr",
+    "port": 27017,
+    "applicationCollection": "application",
+    "killerdroid_collection": "killerdroid",
+    "authenticationConfiguration": {
+      "performAuthentication": false,
+      "authSourceDatabaseName": "",
+      "username": "",
+      "password": ""
+    }
+  }
+}
