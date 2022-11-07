@@ -27,7 +27,7 @@ KillerDroid is wrapped in a **Docker container** and a specific command line is 
 `git clone https://github.com/djobiii2078/hackathon-docker-killerdroid.git`
 2. Connect to your docker account : `docker login registry.gitlab.inria.fr` 
 3. Build the latest image from your Dockerfile: 
-`docker build -t hackathon:latest.` (**5.79GB**)
+`docker build -t hackathon:latest .` (**5.79GB**)
 4. Most functionalities of the packer and analysis tool require AndroidSDK to be installed. Ideally, you need several versions depending on the *apks* and *functionalities* you ought to use. A helper script that install the sdks up to *android-6* is provided.
 `chmod +x installSDKs.sh`
 `./installSDKs.sh`
