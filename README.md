@@ -108,15 +108,8 @@ We are not waiting a fully functional solution but one that give a gist of the u
 
 ## Results
 
-🥇Gold Medal 
-```
-Ekwelle Ndocky Beril Brandone, University of Yaoundé 1, Cameroon
-Eyenga Ovono Tatiana, University of Yaoundé 1, Cameroon
-Gounou Jordan, University of Yaoundé 1, Cameroon
-Mbietieu Amos Mbietieu, University of Yaoundé 1, Cameroon
-```
 
-🥈 Silver Medal
+🥇 Gold Medal
 ```
 Batchayon Fotie William, University of Douala, Cameroon
 Kouayep Tankio Jocelyn, University of Douala, Cameroon
@@ -124,6 +117,15 @@ Moguem Souop Audrey Cyrielle, University of Douala, Cameroon
 Sangala Mballa Louis Michel, University of Douala, Cameroon
 Waha Lindjeck Wilson Emmanuel, University of Douala, Cameroon
 ```
+
+🥈 Silver Medal 
+```
+Ekwelle Ndocky Beril Brandone, University of Yaoundé 1, Cameroon
+Eyenga Ovono Tatiana, University of Yaoundé 1, Cameroon
+Gounou Jordan, University of Yaoundé 1, Cameroon
+Mbietieu Amos Mbietieu, University of Yaoundé 1, Cameroon
+```
+
 
 
 
