@@ -25,7 +25,7 @@ KillerDroid is wrapped in a **Docker container** and a specific command line is 
 
 1. Clone the repository (**2.8MB**) [https://github.com/djobiii2078/hackathon-docker-killerdroid.git](https://github.com/djobiii2078/hackathon-docker-killerdroid.git)
 `git clone https://github.com/djobiii2078/hackathon-docker-killerdroid.git`
-2. Connect to your docker account : `docker login registry.gitlab.inria.fr` 
+2. Connect to your docker account : `docker login -u hackathon-token -p jF4JQuyykynqUt92zsr- registry.gitlab.inria.fr` 
 3. Build the latest image from your Dockerfile: 
 `docker build -t hackathon:latest .` (**5.79GB**)
 4. Most functionalities of the packer and analysis tool require AndroidSDK to be installed. Ideally, you need several versions depending on the *apks* and *functionalities* you ought to use. A helper script that install the sdks up to *android-6* is provided.
@@ -81,7 +81,7 @@ Or use the packer tool as in the notebook example :).
 
 ### Source code
 
-Feel free to peak inside the `code source` of **killerdroid** and **python-andromak** provided to you, to understand the different classes and determine how you can either extend or build your own solution.
+Feel free to peak inside the `code source` of **killerdroid** (`git clone https://hackathon-docker:jF4JQuyykynqUt92zsr-@gitlab.inria.fr/andromak/killerdroid_packer`) and **python-andromak** (`git clone https://hackathon-dockern:FswaN_5RSXJx5bWaqN_L@gitlab.inria.fr/andromak/killerdroid_packer`), to understand the different classes and determine how you can either extend or build your own solution.
 
 
 ## Your task :) 
