@@ -79,11 +79,6 @@ Either, you directly use the **.jar**,
 Or use the packer tool as in the notebook example :).
 
 
-### Source code
-
-Feel free to peak inside the `code source` of **killerdroid** (`git clone https://hackathon-docker:jF4JQuyykynqUt92zsr-@gitlab.inria.fr/andromak/killerdroid_packer`) and **python-andromak** (`git clone https://hackathon-dockern:FswaN_5RSXJx5bWaqN_L@gitlab.inria.fr/andromak/killerdroid_packer`), to understand the different classes and determine how you can either extend or build your own solution.
-
-
 ## Your task :) 
 
 ### Red Team 
